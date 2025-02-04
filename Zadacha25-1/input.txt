@@ -1,0 +1,4 @@
+2023-01-01 - This is the first date format.
+12.12.2020 - This is the second date format.
+03/2021/15 - This is the third date format.
+Another line without a date.
